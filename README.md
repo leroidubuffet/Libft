@@ -1,46 +1,47 @@
 # Libft
 Grade 125/100
-Libft (42cursus) 2022. This project aims to redo in C a library of the following functions that can be used is the next projects of 42.
-atoi
-bzero
-calloc
-isalnum
-isalpha
-isascii
-isdigit
-isprint
-itoa
-lstadd_back
-lstadd_front
-lstclear
-lstdelone
-lstiter
-lstlast
-lstmap
-lstnew
-lstsize
-memchr
-memcmp
-memcpy
-memmove
-memset
-putchar_fd
-putendl_fd
-putnbr_fd
-putstr_fd
-split
-strchr
-strdup
-striteri
-strjoin
-strlcat
-strlcpy
-strlen
-strmapi
-strncmp
-strnstr
-strrchr
-strtrim
-substr
-tolower
-toupper
+Libft (42cursus) 2022. In this project I have created my own C library recreating the following system functions:
+
+- atoi
+- bzero
+- calloc
+- isalnum
+- isalpha
+- isascii
+- isdigit
+- isprint
+- itoa
+- lstadd_back
+- lstadd_front
+- lstclear
+- lstdelone
+- lstiter
+- lstlast
+- lstmap
+- lstnew
+- lstsize
+- memchr
+- memcmp
+- memcpy
+- memmove
+- memset
+- putchar_fd
+- putendl_fd
+- putnbr_fd
+- putstr_fd
+- split
+- strchr
+- strdup
+- striteri
+- strjoin
+- strlcat
+- strlcpy
+- strlen
+- strmapi
+- strncmp
+- strnstr
+- strrchr
+- strtrim
+- substr
+- tolower
+- toupper
