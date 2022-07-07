@@ -1,7 +1,7 @@
 # Libft
 Grade 125/100
 
-Libft (42cursus) 2022. In this project I programmed my own C library recreating the following system functions:
+Libft (42cursus) 2022. In this project I built my own C library recreating the following system functions:
 
 - atoi
 - bzero
